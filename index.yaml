@@ -9,6 +9,6 @@ entries:
     name: myflaskchart
     type: application
     urls:
-    - https://sagitab.github.io/giljet-helm/myflaskchart-52.tgz
-    version: "52"
+    - https://sagitab.github.io/giljet-helm/myflaskchart-51.tgz
+    version: "51"
 generated: "2025-06-26T19:17:32.418509933+03:00"
